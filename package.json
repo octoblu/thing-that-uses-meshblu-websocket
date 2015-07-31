@@ -1,0 +1,19 @@
+{
+  "name": "thing-that-uses-meshblu-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Octoblu Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "debug": "^2.2.0",
+    "lodash": "^3.9.3",
+    "meshblu-config": "^2.0.0",
+    "meshblu-websocket": "^1.0.0"
+  }
+}
